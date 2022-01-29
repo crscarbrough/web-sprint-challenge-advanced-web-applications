@@ -121,8 +121,8 @@ In this project, you will demonstrate your mastery of these skills by creating *
 
 ## Submission format
 
-- [ ] Submit via Codegrade by commiting and pushing any new changes to **your main branch.**
-- [ ] Check Codegrade before the deadline to compare its results against your local tests.
+- [x] Submit via Codegrade by commiting and pushing any new changes to **your main branch.**
+- [x] Check Codegrade before the deadline to compare its results against your local tests.
 - [ ] Check Codegrade on the days following the Sprint Challenge for reviewer feedback. For more information on how to access and read your feedback, check [here](https://www.notion.so/lambdaschool/How-to-View-Feedback-in-CodeGrade-c5147cee220c4044a25de28bcb6bb54a)
 - [ ] New commits will be evaluated by Codegrade if pushed before the sprint challenge deadline.
 
@@ -132,8 +132,16 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain what a token is used for.
 
+A token can be used in React for authentication and access control.
+
 2. What steps can you take in your web apps to keep your data secure?
+
+Keep code and libraries updated, and make sure to use reputable ones. We can also run tests that will check the security of our apps.
 
 3. Describe how web servers work.
 
+Web servers use HTTP and other protocols to respond to client requests on the internet. It's main job is to display content depending on user activity.
+
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+Create, Read, Update, Delete
